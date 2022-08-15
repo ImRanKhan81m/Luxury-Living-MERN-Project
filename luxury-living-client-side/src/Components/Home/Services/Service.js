@@ -8,7 +8,7 @@ const Service = () => {
         <>
             <div className='grid lg:grid-cols-3 md:grid-cols-3 sm:grid-cols-2 gap-10'>
                 <div className='text-center shadow-xl p-10 rounded-xl bg-[#ffffff6b]'>
-                    <div className='w-20 mx-auto'>
+                    <div className='w-20 mx-auto mb-5'>
                         <img className='mx-auto w-full' src={service1} alt="" />
                     </div>
                     <h1 className='text-xl font-semibold'>Anti Age Face Treatment</h1>
@@ -17,7 +17,7 @@ const Service = () => {
                 </div>
 
                 <div className='text-center shadow-xl p-10 rounded-xl bg-[#ffffff6b]'>
-                    <div className='w-20 mx-auto'>
+                    <div className='w-20 mx-auto mb-5'>
                         <img className='mx-auto w-full' src={service2} alt="" />
                     </div>
                     <h1 className='text-xl font-semibold'>Anti Age Face Treatment</h1>
@@ -26,7 +26,7 @@ const Service = () => {
                 </div>
 
                 <div className='text-center shadow-xl p-10 rounded-xl bg-[#ffffff6b]'>
-                    <div className='w-20 mx-auto'>
+                    <div className='w-20 mx-auto mb-5'>
                         <img className='mx-auto w-full' src={service3} alt="" />
                     </div>
                     <h1 className='text-xl font-semibold'>Anti Age Face Treatment</h1>
